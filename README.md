@@ -1,2 +1,3 @@
-# Outlier_detection_and_treatment
-Outlier detection and treatment,aA brief introduction and hands-on.
+# Outlier detection and treatment
+Outlier detection and treatment,a brief introduction and hands-on.
+This a jupyter notebook with the introduction and examples
